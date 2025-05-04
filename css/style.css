@@ -170,15 +170,22 @@ hr {
 		align-items: center;
 	}
 
+	.main > .container {
+		display: flex;
+		justify-content: center;
+		padding: 1rem;
+		background-color: yellow;
+	}
 	.main-article {
+
 		width: 60%;
 		border-radius: 0.6rem;
-		margin: 0;
+		margin-right: 1rem;
 	}
 
 	.main-sidebar {
 		width: 40%;
 		border-radius: 0.6rem;
-		margin: 0;
+		margin-left: 1rem;
 	}
 }

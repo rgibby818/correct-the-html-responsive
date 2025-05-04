@@ -1,0 +1,14 @@
+@media (min-width: 800px) {
+    .main > container {
+
+    }
+    .main-article {
+        width: 100%;
+        margin-right: 0;
+    }
+    .main-sidebar {
+        margin-left: 0;
+
+    }
+
+}
